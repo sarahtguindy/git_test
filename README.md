@@ -1,0 +1,1 @@
+This is Sarah Guindy's first git project!
